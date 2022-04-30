@@ -32,11 +32,11 @@
   },
   "homepage": "https://github.com/jamesmfriedman/rmwc/tree/master/src/typography#readme",
   "peerDependencies": {
-    "react": ">=16.8.x",
-    "react-dom": ">=16.8.x"
+    "react": ">=18.1.0",
+    "react-dom": ">=18.1.0"
   },
   "dependencies": {
-    "@material/typography": "^5.1.0",
+    "@material/typography": "^14.0.0",
     "@rmwc/base": "^7.0.3",
     "@rmwc/provider": "^7.0.3",
     "@rmwc/types": "^7.0.3"
